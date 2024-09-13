@@ -1,0 +1,4 @@
+https://roadmap.sh/sql
+https://www.w3schools.com/sql/default.asp
+https://www.sqltutorial.org/
+https://mode.com/sql-tutorial/introduction-to-sql
