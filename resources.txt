@@ -2,3 +2,38 @@ https://roadmap.sh/sql
 https://www.w3schools.com/sql/default.asp
 https://www.sqltutorial.org/
 https://mode.com/sql-tutorial/introduction-to-sql
+
+
+datatypes in sql :
+1. Numeric Data Types:
+INT: Integer, used for whole numbers.
+TINYINT: Small integer, typically used for boolean values (0 or 1).
+SMALLINT: Smaller range integer.
+MEDIUMINT: Medium-range integer.
+BIGINT: Large integer.
+DECIMAL(M, D): Fixed-point number, used for precise calculations, with M digits in total and D decimal places.
+FLOAT: Single-precision floating-point number.
+DOUBLE: Double-precision floating-point number.
+2. String Data Types:
+CHAR(N): Fixed-length string (up to N characters).
+VARCHAR(N): Variable-length string (up to N characters).
+TEXT: Variable-length string for larger text.
+TINYTEXT: Smaller text string.
+MEDIUMTEXT: Medium-length text string.
+LONGTEXT: Long text string.
+BLOB: Binary large object, used for binary data like images or files.
+3. Date and Time Data Types:
+DATE: Stores date values (YYYY-MM-DD).
+DATETIME: Stores date and time (YYYY-MM-DD HH:MM:SS).
+TIMESTAMP: Stores timestamp, typically used for tracking changes in records.
+TIME: Stores time (HH:MM:SS).
+YEAR: Stores year (YYYY).
+4. Spatial Data Types (for geographic data):
+POINT: Represents a single point in a 2D space.
+LINESTRING: Represents a series of points forming a line.
+POLYGON: Represents a polygon.
+5. Other Data Types:
+ENUM: A string object that can have only one value from a defined list.
+SET: A string object that can have multiple values from a predefined set.
+BOOLEAN: Alias for TINYINT(1), used for storing boolean values.
+
