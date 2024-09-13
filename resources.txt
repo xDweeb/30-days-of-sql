@@ -3,6 +3,8 @@ https://www.w3schools.com/sql/default.asp
 https://www.sqltutorial.org/
 https://mode.com/sql-tutorial/introduction-to-sql
 
+https://www.digitalocean.com/community/tutorials/sql-data-types#sql-numeric-data-types
+
 
 datatypes in sql :
 1. Numeric Data Types:
