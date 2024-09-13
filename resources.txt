@@ -37,3 +37,10 @@ ENUM: A string object that can have only one value from a defined list.
 SET: A string object that can have multiple values from a predefined set.
 BOOLEAN: Alias for TINYINT(1), used for storing boolean values.
 
+Numeric data types such as: INT, TINYINT, BIGINT, FLOAT, REAL, etc.
+Date and Time data types such as: DATE, TIME, DATETIME, etc.
+Character and String data types such as: CHAR, VARCHAR, TEXT, etc.
+Unicode character string data types such as: NCHAR, NVARCHAR, NTEXT, etc.
+Binary data types such as: BINARY, VARBINARY, etc.
+Miscellaneous data types - CLOB, BLOB, XML, CURSOR, TABLE, etc.
+
